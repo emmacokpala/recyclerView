@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">recyclerView</string>
+    <string name="motivate1">I am strong.</string>
+    <string name="motivate2">I believe in myself.</string>
+    <string name="motivate3">I will make it in due time.</string>
+    <string name="motivate4">I have so much to be grateful for.</string>
+    <string name="motivate5">I see opportunities awaiting me at every turn.</string>
+    <string name="motivate6">I see good things coming into my life.</string>
+    <string name="motivate7">I see each day getting better.</string>
+    <string name="motivate8">I see success all around me.</string>
+    <string name="motivate9">I will always be grateful in everything.</string>
+    <string name="motivate10">I will live each new day like is golden.</string>
+    <string name="motivate11">I work hand in hand with my creator every moment.</string>
+    <string name="motivate12">I see family as everything, but God as all things.</string>
+    <string name="motivate13">I would never doubt my strength in achieving my goals.</string>
+    <string name="motivate14">I know I can make it.</string>
+    <string name="motivate15">I know that I can stand no matter what comes my way.</string>
+</resources>
